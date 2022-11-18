@@ -222,16 +222,16 @@ img.pull-left {
     margin: 0 auto;
 }
 
-.sidebar {
+.sidebar_1 {
     padding-top: 36px;
     padding-bottom: 30px;
 }
 
-.sidebar .panel {
+.sidebar_1 .panel {
     margin-bottom: 20px;
 }
 
-.sidebar h1, .sidebar .h1, .sidebar h2, .sidebar .h2, .sidebar h3, .sidebar .h3 {
+.sidebar_1 h1, .sidebar_1 .h1, .sidebar_1 h2, .sidebar_1 .h2, .sidebar_1 h3, .sidebar_1 .h3 {
     margin-top: 20px;
 } 
 
